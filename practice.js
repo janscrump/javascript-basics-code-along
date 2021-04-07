@@ -6,7 +6,8 @@
 
 // Code here
 
-
+var greeting ="Hi"
+var farewell ='Goodbye'
 
 //////////////////PROBLEM 2////////////////////
 
@@ -16,6 +17,9 @@
 
 //Code here
 
+var hello ="Hello"
+var userName ='Janson'
+var salutation = hello + userName
 
 
 //////////////////PROBLEM 3////////////////////
@@ -24,6 +28,7 @@
 
 //Code here
 
+var seven = 7
 
 
 //////////////////PROBLEM 4////////////////////
@@ -33,7 +38,7 @@
 
 //Code here
 
-
+var money = 1000000
 
 //////////////////PROBLEM 5////////////////////
 
@@ -51,6 +56,7 @@ let myCar = "Jeep";
 
 
 // Set the variable myCar to be null
+
 
 
 //Code here
