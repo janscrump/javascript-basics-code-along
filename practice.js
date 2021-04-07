@@ -46,7 +46,7 @@ var money = 1000000
 
 //Code here
 
-
+var awesome = true
 
 //////////////////PROBLEM 6////////////////////
 
@@ -61,7 +61,7 @@ let myCar = "Jeep";
 
 //Code here
 
-
+myCar = null
 
 //////////////////PROBLEM 7////////////////////
 
